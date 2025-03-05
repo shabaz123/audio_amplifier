@@ -8,9 +8,9 @@ Here's a photo of the amplifier in operation, with a small microphone (known as 
 
 <img width="100%" align="left" src="photo-audio-amp.jpg">
 
-To build it, download the [audio-amp-gerber-files-rev2.zip file](https://github.com/shabaz123/audio_amplifier/raw/refs/heads/main/audio-amp-gerber-files-rev2.zip), and upload it to any printed circuit board (PCB) manufacturer. It will cost around $2 plus shipping, for five or so boards.
+If you want to purchase a printed circuit board (PCB) for this project, download the [audio-amp-gerber-files-rev2.zip file](https://github.com/shabaz123/audio_amplifier/raw/refs/heads/main/audio-amp-gerber-files-rev2.zip), and upload it to any PCB manufacturer website. They will charge around $2 plus shipping, for five or so boards.
 
-All build details are contained in the Audio Amplifier PDF Guide [(click here to download the PDF guide to your PC)](https://raw.githubusercontent.com/shabaz123/audio_amplifier/main/audio-amp-project.pdf)
+All construction related information is contained in the Audio Amplifier PDF Guide [(click here to download the PDF guide to your PC)](https://raw.githubusercontent.com/shabaz123/audio_amplifier/main/audio-amp-project.pdf)
 
 To use the amplifier, you can use an electret mic element if desired, and a little loudspeaker. I used an 8-ohm speaker, but you'll get better results if you can find a higher impedance speaker (for instance, 64 ohm would be more ideal).
 
