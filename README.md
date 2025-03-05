@@ -6,7 +6,7 @@ This repository contains information to build an audio amplifier:
 
 To build it, download the audio-amp-gerber-files-rev2.zip file contained within this repository, and upload it to any printed circuit board (PCB) manufacturer. It will cost around $2 plus shipping, for five or so boards.
 
-All build details are in the PDF file.
+All build details are contained in the [Audio Amplifier PDF Document](https://github.com/shabaz123/audio_amplifier/audio-amp-project.pdf).
 
 <img width="100%" align="left" src="doc-board-overview.jpg">
 
