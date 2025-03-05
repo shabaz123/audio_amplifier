@@ -4,9 +4,15 @@ This repository contains information to build an audio amplifier:
 
 <img width="100%" align="left" src="render-3d.jpg">
 
+Here's a photo of the amplifier in operation, with a small microphone (known as an electret microphone element), and a speaker:
+
+<img width="100%" align="left" src="photo-audio-amp.jpg">
+
 To build it, download the audio-amp-gerber-files-rev2.zip file contained within this repository, and upload it to any printed circuit board (PCB) manufacturer. It will cost around $2 plus shipping, for five or so boards.
 
 All build details are contained in the Audio Amplifier PDF Guide [(click here to download the PDF guide to your PC)](https://raw.githubusercontent.com/shabaz123/audio_amplifier/main/audio-amp-project.pdf)
+
+To use the amplifier, you can use an electret mic element if desired, and a little loudspeaker. I used an 8-ohm speaker, but you'll get better results if you can find a higher impedance speaker (for instance, 64 ohm would be more ideal).
 
 <img width="100%" align="left" src="doc-board-overview.jpg">
 
