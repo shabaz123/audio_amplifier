@@ -12,7 +12,7 @@ If you want to purchase a printed circuit board (PCB) for this project, download
 
 All construction related information is contained in the Audio Amplifier PDF Guide [(click here to download the PDF guide to your PC)](https://raw.githubusercontent.com/shabaz123/audio_amplifier/main/audio-amp-project.pdf)
 
-To use the amplifier, you can use an electret mic element if desired, and a little loudspeaker. I used an 8-ohm speaker, but you'll get better results if you can find a higher impedance speaker (for instance, 64 ohm would be more ideal).
+To use the amplifier, you can attach an electret mic element if desired, and a little loudspeaker. I used an 8-ohm speaker, but you'll get better results if you can find a higher impedance speaker (for instance, 64 ohm would be more ideal).
 
 <img width="100%" align="left" src="doc-board-overview.jpg">
 
