@@ -34,7 +34,7 @@ Resistors, and the ceramic capacitor, can go in either way
 
 The polarized capacitors (electrolytic capacitors) have a band marking the negative side
 
-The diodes have a band that indicates the Cathode (K) end
+The diodes have a band that indicates the Cathode end (which is sometimes labeled K on a printed circuit board)
 
 Follow the graphic outlines marked on the board accordingly, for all components
 
