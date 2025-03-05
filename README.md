@@ -8,7 +8,7 @@ Here's a photo of the amplifier in operation, with a small microphone (known as 
 
 <img width="100%" align="left" src="photo-audio-amp.jpg">
 
-To build it, download the audio-amp-gerber-files-rev2.zip file contained within this repository, and upload it to any printed circuit board (PCB) manufacturer. It will cost around $2 plus shipping, for five or so boards.
+To build it, download the [audio-amp-gerber-files-rev2.zip file](https://github.com/shabaz123/audio_amplifier/raw/refs/heads/main/audio-amp-gerber-files-rev2.zip), and upload it to any printed circuit board (PCB) manufacturer. It will cost around $2 plus shipping, for five or so boards.
 
 All build details are contained in the Audio Amplifier PDF Guide [(click here to download the PDF guide to your PC)](https://raw.githubusercontent.com/shabaz123/audio_amplifier/main/audio-amp-project.pdf)
 
